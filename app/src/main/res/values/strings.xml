@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Iungo</string>
+    <string name="activity_main_default_subscribe_button">Subscribe To News</string>
+    <string name="activity_main_default_log_token_button">Log Token</string>
+    <string name="activity_main_default_textView_text">Click the SUBSCRIBE TO NEWS Button below to Subscribe to news topic.
+        Messages Sent to the news topic will be received . The LOG TOKKEN Button logs the InstanceID token to logcat</string>
+    <string name="activity_main_default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="activity_main_default_notification_channel_name" translatable="true">Weather</string>
+    <string name="message_subscribe">Subscribed to wheather</string>
+    <string name="message_subscribe_failed">Failed to Subscribe to weather topic</string>
+    <string name="message_token_fmt" translatable="false">InstanceID Token : %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="google_maps_api_keys">AIzaSyBMVvMyUH0ZOLomBXkPEmOc1p7j6VrouFg</string>
+</resources>
